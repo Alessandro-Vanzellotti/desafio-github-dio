@@ -1,2 +1,2 @@
-# desafio-github-dio
-Um repositório para os desafios do bootcamp da DIO
+# Repositório do desafio de projeto sobre Git/Github da DIO
+Desafio de projeto sobre Git/Github
