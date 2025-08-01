@@ -1,0 +1,9 @@
+O git é uma tecnologia de versionamento de código distribuído.
+
+Comandos importantes:
+
+git status - verifica se há modificações no repositório
+git add - adiciona as mudanças para que possam ser commitadas
+git commit - commita as mudanças adicionadas
+git push - envia as modificações feitas localmente para o repositório remoto de origem
+git branch - verifica as branches e em qual se está no momento
