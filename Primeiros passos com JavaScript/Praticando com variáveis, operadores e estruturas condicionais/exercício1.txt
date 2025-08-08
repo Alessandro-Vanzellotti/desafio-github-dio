@@ -1,0 +1,8 @@
+Faça um algoritmo que dado as  notas tiradas opor um aluno em um semestre da faculdade vcalcule e imprima sua média e a sua classificação conforme a tabela abaixo.
+
+Média = (nota 1 + nota 2 + nota 3) / 3;
+
+Classificação:
+- média menor que 5, reprovação;
+- média entre 5 e 7, recuperação;
+- média acima de 7, passou de semestre;
